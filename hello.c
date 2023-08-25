@@ -2,7 +2,7 @@
 * Author: Anok Timothy
 * Date: 2023/08/24
 *
-* How to used Git, Hack 1
+* How to use Git, Hack 1
 */
 
 #include<stdlib.h>
